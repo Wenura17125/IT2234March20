@@ -61,8 +61,8 @@ app.listen(port, () => {
 
 | Category | File | Description | Output |
 |----------|------|-------------|--------|
-| Server Technologies | `server.js` | Basic HTTP server implementation | [View](outputs/server.png) |
-| Server Technologies | `app.js` | Express.js server implementation | [View](outputs/server.png) |
+| Server Technologies | `server.js` | Basic HTTP server implementation | [View](output/server.png) |
+| Server Technologies | `app.js` | Express.js server implementation | [View](output/server.png) |
 
 ### 🔍 Technical Notes
 
